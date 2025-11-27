@@ -1,1 +1,1 @@
-# Aura Vault
+# Aura Vault Frontend
